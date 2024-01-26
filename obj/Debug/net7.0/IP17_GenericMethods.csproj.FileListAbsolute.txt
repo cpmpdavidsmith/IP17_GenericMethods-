@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/bin/Debug/net7.0/IP17_GenericMethods
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/bin/Debug/net7.0/IP17_GenericMethods.deps.json
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/bin/Debug/net7.0/IP17_GenericMethods.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/bin/Debug/net7.0/IP17_GenericMethods.dll
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/bin/Debug/net7.0/IP17_GenericMethods.pdb
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.dll
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/refint/IP17_GenericMethods.dll
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.pdb
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/IP17_GenericMethods.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IP17_GenericMethods/IP17_GenericMethods/obj/Debug/net7.0/ref/IP17_GenericMethods.dll
